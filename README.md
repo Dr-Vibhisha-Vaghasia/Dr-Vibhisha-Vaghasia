@@ -1,4 +1,6 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Dr. Vibhisha Vaghasia</h1>
+<h3 align="center">A passionate Reseacher & Educator in Bioinformatics, AI and Quantum computing from India</h3>
 🎓 Ph.D. Bioinformatics | Assistant Professor | Researcher & Innovator<br>🧠 AI-Driven Computational Biology  <br>🧬 Multi-Omics | Biomarker Discovery | Precision Medicine <br>💊 Computational Drug Discovery | Molecular Modeling | Next-gen Vaccine Design  <br>⚛️ Exploring Quantum-AI-Enhanced Healthcare  <br>🐍 Python • R • Linux | Open Science & Reproducible Research
 
 
